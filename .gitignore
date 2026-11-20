@@ -1,0 +1,13 @@
+.envrc
+.direnv
+
+_RocqProject
+RocqMakefile
+RocqMakefile.conf
+.RocqMakefile.d
+
+*.aux
+*.glob
+*.vo
+*.vok
+*.vos
